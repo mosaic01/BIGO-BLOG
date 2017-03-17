@@ -1,0 +1,1 @@
+.htacess   index.php/$s ¸Ä³É index.php?s=/$1
